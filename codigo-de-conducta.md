@@ -8,8 +8,8 @@ Si un miembro de la comunidad se involucra en conducta de acoso, los organizador
 
 ### :school: **Nodeschool Monterrey**
 
-* :neckbeard: Organizadores: **@diegowifi en [twitter](http://twitter.com/Diego_WiFi), @esaOP en [twitter](http://twitter.com/esauOp), @AlexKvazos en [twitter](http://twitter.com/AlexKvazosMx)**
-* :date: URL Meetup: **[JavaScript Monterrey](http://fb.com/pages/Javascript-Monterrey/)**
+:neckbeard: Organizadores: **@diegowifi en [twitter](http://twitter.com/Diego_WiFi), @esaOP en [twitter](http://twitter.com/esauOp), @AlexKvazos en [twitter](http://twitter.com/AlexKvazosMx)**
+:date: URL Meetup: **[JavaScript Monterrey](http://fb.com/pages/Javascript-Monterrey/)**
 
 **Si tiene preguntas o comentarios acerca de este código de conducta por favor póngase en contacto con uno de los organizadores.**
 
