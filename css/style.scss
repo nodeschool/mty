@@ -82,3 +82,15 @@ aside ul li a{
 	font-size:1.5em;
 	font-weight:100;
 }
+
+@media (max-width: 590px) {
+  aside{
+  	display:block;
+  	position:static;
+  	width:100%;
+  }
+  #international-day-wrap{
+  	position:static;
+  	width:100%;
+  }
+}
