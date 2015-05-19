@@ -73,14 +73,26 @@ aside ul li a{
 }
 
 #international h3{
+	color:#FFF;
 	font-size:3em;
 	margin-top:0;
 	margin-bottom:0;
 }
 
 #international time{
+	color:#FFF;
 	font-size:1.5em;
 	font-weight:100;
+}
+
+#register{
+	color:#895f23;
+	background-color:#F2C342;
+	display:table;
+	margin:30px auto;
+	padding:20px;
+	font-weight:bold;
+	text-shadow:none;
 }
 
 @media (max-width: 590px) {
