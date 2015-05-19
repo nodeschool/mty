@@ -99,16 +99,24 @@ aside ul li a{
 	background-color:#d6aa3b;
 }
 
-@media (max-width: 590px) {
+@media (max-width: 690px) {
   aside{
   	display:block;
   	position:static;
   	width:100%;
   }
   #international-day-wrap{
-  	position:static;
   	width:100%;
   }
+  #international{
+  	display:block;
+  	width:100%;
+  }
+  section{
+  	margin-left:0;
+  	width:100%;
+  }
+
   #international img{
   	display:block;
   	margin:0 auto;
